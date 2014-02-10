@@ -36,7 +36,7 @@ public class NoiseChannel {
       	  }
       	  mascara <<=1;
         }
-        // ^ representa la funcion binaria XOR
+        // ^ represents binary function XOR
         return integer^mascara;
       }
     
@@ -57,7 +57,7 @@ public class NoiseChannel {
       	  }
       	  mascara <<=1;
         }
-        // ^ representa la funcion binaria XOR
+        // ^ represents binary function XOR
         return b^mascara;
       }
 	
